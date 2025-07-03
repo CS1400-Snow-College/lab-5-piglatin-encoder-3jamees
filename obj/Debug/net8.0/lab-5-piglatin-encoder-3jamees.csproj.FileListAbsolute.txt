@@ -1,0 +1,15 @@
+C:\Users\12424\my-code-dir\lab-5-piglatin-encoder-3jamees\bin\Debug\net8.0\lab-5-piglatin-encoder-3jamees.exe
+C:\Users\12424\my-code-dir\lab-5-piglatin-encoder-3jamees\bin\Debug\net8.0\lab-5-piglatin-encoder-3jamees.deps.json
+C:\Users\12424\my-code-dir\lab-5-piglatin-encoder-3jamees\bin\Debug\net8.0\lab-5-piglatin-encoder-3jamees.runtimeconfig.json
+C:\Users\12424\my-code-dir\lab-5-piglatin-encoder-3jamees\bin\Debug\net8.0\lab-5-piglatin-encoder-3jamees.dll
+C:\Users\12424\my-code-dir\lab-5-piglatin-encoder-3jamees\bin\Debug\net8.0\lab-5-piglatin-encoder-3jamees.pdb
+C:\Users\12424\my-code-dir\lab-5-piglatin-encoder-3jamees\obj\Debug\net8.0\lab-5-piglatin-encoder-3jamees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12424\my-code-dir\lab-5-piglatin-encoder-3jamees\obj\Debug\net8.0\lab-5-piglatin-encoder-3jamees.AssemblyInfoInputs.cache
+C:\Users\12424\my-code-dir\lab-5-piglatin-encoder-3jamees\obj\Debug\net8.0\lab-5-piglatin-encoder-3jamees.AssemblyInfo.cs
+C:\Users\12424\my-code-dir\lab-5-piglatin-encoder-3jamees\obj\Debug\net8.0\lab-5-piglatin-encoder-3jamees.csproj.CoreCompileInputs.cache
+C:\Users\12424\my-code-dir\lab-5-piglatin-encoder-3jamees\obj\Debug\net8.0\lab-5-piglatin-encoder-3jamees.sourcelink.json
+C:\Users\12424\my-code-dir\lab-5-piglatin-encoder-3jamees\obj\Debug\net8.0\lab-5-piglatin-encoder-3jamees.dll
+C:\Users\12424\my-code-dir\lab-5-piglatin-encoder-3jamees\obj\Debug\net8.0\refint\lab-5-piglatin-encoder-3jamees.dll
+C:\Users\12424\my-code-dir\lab-5-piglatin-encoder-3jamees\obj\Debug\net8.0\lab-5-piglatin-encoder-3jamees.pdb
+C:\Users\12424\my-code-dir\lab-5-piglatin-encoder-3jamees\obj\Debug\net8.0\lab-5-piglatin-encoder-3jamees.genruntimeconfig.cache
+C:\Users\12424\my-code-dir\lab-5-piglatin-encoder-3jamees\obj\Debug\net8.0\ref\lab-5-piglatin-encoder-3jamees.dll
